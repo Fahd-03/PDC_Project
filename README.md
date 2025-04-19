@@ -1,4 +1,4 @@
-```markdown
+
 # Parallel Algorithm for Constructing Independent Spanning Trees in Bubble-Sort Networks
 
 ## Overview
@@ -12,7 +12,6 @@ The project includes:
 
 ## Project Structure
 
-```
 parallel-ist-bubble-sort/
 ├── src/
 │   ├── main.c               # Main program implementing Algorithm 1
